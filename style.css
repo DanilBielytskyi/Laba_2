@@ -4,6 +4,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    background: linear-gradient(45deg, red, blue);
 }
 .calc{
     background-color: cornflowerblue;
