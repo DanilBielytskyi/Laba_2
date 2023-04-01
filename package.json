@@ -1,0 +1,16 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "project with tasks",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "keywords": [],
+  "author": "Danyl Bielytskyi",
+  "license": "ISC",
+  "dependencies": {
+    "readline-sync": "^1.4.10",
+    "typescript": "^5.0.2"
+  }
+}

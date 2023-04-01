@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.calc{
+    background-color: cornflowerblue;
+    width: 250px;
+    height: 300px;
+    padding: 16px;
+    border-radius: 10px;
+}
+.btn{
+    margin: 3px;
+    width: 50px;
+    font-weight: 500;
+    transition: 0.2s all;
+    opacity: 0.7;
+}
+.btn:hover{
+    opacity: 2;
+}
+.btn-reset{
+    width: 163px;
+}
+.btn-zero{
+    width: 106px;
+}
+.calc_body{
+    display: flex;
+    font-size: 0;
+}
+.calc_num{
+    width: 168px;
+}
